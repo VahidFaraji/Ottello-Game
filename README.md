@@ -1,6 +1,11 @@
 # Ottello-Game
 Othello AI Game with Minimax and Alpha-Beta Pruning
 
+   ## Screenshot
+Here is a preview of the game board:
+
+![Game Board Screenshot](Board.png)
+
 This project implements an AI-driven Othello game using the Minimax algorithm with Alpha-Beta pruning. The game includes the following features:
 
 - **🧠 Minimax with Alpha-Beta Pruning:**  
@@ -22,4 +27,5 @@ This project implements an AI-driven Othello game using the Minimax algorithm wi
 1. Clone the repository:
    ```bash
    git clone https://github.com/VahidFaraji/Ottello-Game.git
+
 
